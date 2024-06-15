@@ -26,3 +26,11 @@
 
 </body>
 </html>
+Explanation:
+HTML Structure:
+There's a <div> element with the class .twilight-shadow that contains a <p> element for text.
+CSS Styles:
+.twilight-shadow class styles the div to have a size, background color, padding, margin, and text alignment.
+box-shadow property creates the twilight shadow effect. It consists of two shadows:
+0 4px 8px rgba(0, 0, 0, 0.2): A smaller, lighter shadow below the box.
+0 6px 20px rgba(0, 0, 0, 0.15): A larger, softer shadow further below.
